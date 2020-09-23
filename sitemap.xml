@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://funtowin.github.io/git%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
+    
+    <lastmod>2020-09-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://funtowin.github.io/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91%E4%BB%A3%E7%A0%81%E5%AD%98%E6%A1%A3-prim%E5%92%8Ckruskal/</loc>
     
     <lastmod>2020-09-22</lastmod>
@@ -25,7 +32,7 @@
 
   <url>
     <loc>https://funtowin.github.io/</loc>
-    <lastmod>2020-09-22</lastmod>
+    <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -33,42 +40,49 @@
   
   <url>
     <loc>https://funtowin.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2020-09-22</lastmod>
+    <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/tags/SPFA/</loc>
-    <lastmod>2020-09-22</lastmod>
+    <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/tags/BFS/</loc>
-    <lastmod>2020-09-22</lastmod>
+    <lastmod>2020-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://funtowin.github.io/tags/git/</loc>
+    <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/tags/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/</loc>
-    <lastmod>2020-09-22</lastmod>
+    <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/tags/prim/</loc>
-    <lastmod>2020-09-22</lastmod>
+    <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/tags/kruskal/</loc>
-    <lastmod>2020-09-22</lastmod>
+    <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -77,14 +91,21 @@
   
   <url>
     <loc>https://funtowin.github.io/categories/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2020-09-22</lastmod>
+    <lastmod>2020-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://funtowin.github.io/categories/git/</loc>
+    <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/categories/%E7%AE%97%E6%B3%95/%E4%BB%A3%E7%A0%81%E5%BD%92%E6%A1%A3/</loc>
-    <lastmod>2020-09-22</lastmod>
+    <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

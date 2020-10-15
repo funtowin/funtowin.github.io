@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://funtowin.github.io/%E7%A6%BB%E6%95%A3%E5%8C%96/</loc>
+    
+    <lastmod>2020-10-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://funtowin.github.io/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</loc>
+    
+    <lastmod>2020-10-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://funtowin.github.io/about/index.html</loc>
     
     <lastmod>2020-09-24</lastmod>
@@ -39,7 +53,7 @@
 
   <url>
     <loc>https://funtowin.github.io/</loc>
-    <lastmod>2020-09-24</lastmod>
+    <lastmod>2020-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -47,70 +61,84 @@
   
   <url>
     <loc>https://funtowin.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2020-09-24</lastmod>
+    <lastmod>2020-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/tags/SPFA/</loc>
-    <lastmod>2020-09-24</lastmod>
+    <lastmod>2020-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/tags/BFS/</loc>
-    <lastmod>2020-09-24</lastmod>
+    <lastmod>2020-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/tags/git/</loc>
-    <lastmod>2020-09-24</lastmod>
+    <lastmod>2020-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://funtowin.github.io/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</loc>
+    <lastmod>2020-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://funtowin.github.io/tags/%E7%A6%BB%E6%95%A3%E5%8C%96/</loc>
+    <lastmod>2020-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2020-09-24</lastmod>
+    <lastmod>2020-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/tags/css/</loc>
-    <lastmod>2020-09-24</lastmod>
+    <lastmod>2020-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/tags/%E6%A0%B7%E5%BC%8F/</loc>
-    <lastmod>2020-09-24</lastmod>
+    <lastmod>2020-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/tags/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/</loc>
-    <lastmod>2020-09-24</lastmod>
+    <lastmod>2020-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/tags/prim/</loc>
-    <lastmod>2020-09-24</lastmod>
+    <lastmod>2020-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/tags/kruskal/</loc>
-    <lastmod>2020-09-24</lastmod>
+    <lastmod>2020-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -119,28 +147,28 @@
   
   <url>
     <loc>https://funtowin.github.io/categories/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2020-09-24</lastmod>
+    <lastmod>2020-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/categories/git/</loc>
-    <lastmod>2020-09-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://funtowin.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2020-09-24</lastmod>
+    <lastmod>2020-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://funtowin.github.io/categories/%E7%AE%97%E6%B3%95/%E4%BB%A3%E7%A0%81%E5%BD%92%E6%A1%A3/</loc>
-    <lastmod>2020-09-24</lastmod>
+    <lastmod>2020-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://funtowin.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2020-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

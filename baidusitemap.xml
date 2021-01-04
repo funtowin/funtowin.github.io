@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://funtowin.github.io/redis%E5%AE%9E%E8%B7%B5/</loc>
+    <lastmod>2021-01-04</lastmod>
+  </url>
+  <url>
     <loc>https://funtowin.github.io/ST%E8%A1%A8/</loc>
-    <lastmod>2020-10-17</lastmod>
+    <lastmod>2020-10-18</lastmod>
   </url>
   <url>
     <loc>https://funtowin.github.io/%E7%A6%BB%E6%95%A3%E5%8C%96/</loc>
